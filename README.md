@@ -10,7 +10,7 @@ git clone https://github.com/soumoks/sam-python-example.git
 ```
 
 There are no additional dependencies for this application.
-However, a requirements.txt file is required for AWS SAM.
+However, a requirements.txt file is required for AWS SAM..
 
 * Run the application
 ```
